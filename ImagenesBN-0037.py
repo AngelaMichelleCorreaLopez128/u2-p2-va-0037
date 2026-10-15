@@ -15,3 +15,4 @@ print(img)
 # Mostramos nuestra imagen
 plt.imshow(img, cmap='gray')
 plt.show()
+print("Angela Correa NC = 0037")
